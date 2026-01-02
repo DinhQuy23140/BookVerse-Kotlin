@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="time">Chào buổi sáng</string>
+    <string name="notifi_label">Thông báo</string>
+    <string name="recent_label">Gần đây</string>
+    <string name="setting_label">Cài đặt</string>
+    <string name="story">Truyện</string>
+    <string name="news">Tin tức</string>
+    <string name="favorite_buttom">Yêu thích</string>
+    <string name="theme">Chủ đề</string>
+    <string name="themeBtnSelect">Chọn</string>
+    <string name="viewAll">Xem tất cả</string>
+    <string name="title_newBook">Mới</string>
+    <string name="title_mostpopular">Thịnh hành</string>
+    <string name="title_recent">Xem gần đây</string>
+    <string name="title_allBook">Tất cả</string>
+    <string name="ViewAllBookTitle">Danh sách sách</string>
+
+    //time
+    <string name="setTimeMorining">Chào buổi sáng</string>
+    <string name="setTimeAfternoon">Chào buổi chiều</string>
+    <string name="setTimeEvening">Chào buổi tối</string>
+    <string name="setTimeNight">Đêm ngủ ngon</string>
+
+</resources>
